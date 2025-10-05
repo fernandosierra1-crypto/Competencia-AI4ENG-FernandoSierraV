@@ -1,4 +1,4 @@
-#                                Competencia AI4ENG UDEA 2025-2
+#Competencia AI4ENG UDEA 2025-2
 #                                     Entrega 1: README.md
 #Estudiantes:
 #Fernando José Sierra Vanegas - CC. 1192920363 - Ingeniería sanitaria
