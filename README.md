@@ -1,10 +1,6 @@
 #                                Competencia AI4ENG UDEA 2025-2
 #                                     Entrega 1: README.md
-
-# Autores: Fernando José Sierra Vanegas - fernando.sierra1@udea.edu.co - Ingeniería sanitaria
-# Andrés Felipe Villegas Villegas - andres.villegas1@udea.edu.co - Ingeniería sanitaria
-# Isabel Hernández Laiza - isabel.hernandezl@udea.edu.co
-
-
-# Universidad de Antioquia
-# Fecha: Octubre 2025
+#Estudiantes:
+#Fernando José Sierra Vanegas - CC. 1192920363 - Ingeniería sanitaria
+#Andrés Felipe Villegas Villegas -  - Ingeniería sanitaria
+#Isabel Hernández Laiza - CC. 1152716029 -  isabel.hernandezl@udea.edu.co
