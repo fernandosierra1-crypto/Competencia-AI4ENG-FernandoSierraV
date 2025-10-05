@@ -5,7 +5,7 @@
   **Correo institucional:** fernando.sierra1@udea.edu.co  
 
 - **Nombre completo:** Andrés Felipe Villegas Villegas  
-  **Cédula:** *(sin registrar)*  
+  **Cédula:** **  
   **Correo institucional:** andres.villegas1@udea.edu.co  
 
 - **Nombre completo:** Isabel Hernández Loaiza  
