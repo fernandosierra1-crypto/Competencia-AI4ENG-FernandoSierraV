@@ -1,6 +1,6 @@
-## COMPETENCIA AI4ENG UDEA - Semestre 2025-2
+# COMPETENCIA AI4ENG UDEA - Semestre 2025-2
 
-# **Entrega 1**
+## **Entrega 1**
 
 ## Contenido del repositorio
 - `01 - exploración.ipynb` — Exploración básica del archivo `train.csv`.
