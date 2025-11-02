@@ -23,4 +23,4 @@
 - 02 - preprocesado.ipynb — Limpieza y preprocesamiento de train.csv
 
 #### Enlace al vídeo (Entrega 2)
-- Video en YouTube: *xxx*
+- Video en YouTube: *https://youtu.be/yKVBxRyjV90*
