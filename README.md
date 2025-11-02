@@ -2,10 +2,10 @@
 
 ## **Entrega 1**
 
-## Contenido del repositorio
+### Contenido del repositorio
 - `01 - exploración.ipynb` — Exploración básica del archivo `train.csv`.
 
-## Integrantes del grupo
+### Integrantes del grupo
 - **Nombre completo:** Fernando José Sierra Vanegas  
   **Cédula:** 1192920363  
   **Carrera:** Ingeniería Sanitaria  
@@ -20,11 +20,11 @@
 
   
 
-**Entrega 2**
+## **Entrega 2**
 
-## Contenido del repositorio
+### Contenido del repositorio
 - `02 - preprocesado.ipynb` — Limpieza y preprocesamiento de `train.csv`
 
-## Enlace al vídeo (Entrega 2)
+### Enlace al vídeo (Entrega 2)
 - Video en YouTube: **xxx**
 
