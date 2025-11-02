@@ -1,10 +1,11 @@
-# COMPETENCIA AI4ENG UDEA - Semestre 2025-2
-**Entrega 1**
+## COMPETENCIA AI4ENG UDEA - Semestre 2025-2
+
+# **Entrega 1**
 
 ## Contenido del repositorio
 - `01 - exploración.ipynb` — Exploración básica del archivo `train.csv`.
 
-# Integrantes del grupo
+## Integrantes del grupo
 - **Nombre completo:** Fernando José Sierra Vanegas  
   **Cédula:** 1192920363  
   **Carrera:** Ingeniería Sanitaria  
