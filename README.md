@@ -13,7 +13,15 @@
   **Cédula:** 1152716029  
   **Carrera:** Bioingeniería
 
-  
+#Contenido del repositorio:
+
+- 01 - exploración.ipynb → análisis inicial del dataset
+- 02 - preprocesado.ipynb → limpieza y preparación
+- 03 - modelo con preprocesado de tal forma y SVM.ipynb → primera aproximación usando SVM
+- 04 - modelo con preprocesado de otra forma y Random Forest.ipynb → segunda aproximación
+- 99 - modelo solución.ipynb → solución final usada para Kaggle
+
+
 ## *Entrega 1*
 
 - 01 - exploración.ipynb — Exploración básica del archivo train.csv.
